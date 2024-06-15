@@ -14,4 +14,4 @@ words = word_tokenize(example_sentence)
 
 filtered_sentence = [w for w in words if not w in stop_words]
 
-print(filtered_sentence)
+print(filtered_sentence)f
